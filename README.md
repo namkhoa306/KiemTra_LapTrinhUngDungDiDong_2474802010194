@@ -1,0 +1,9 @@
+# BÀI KIỂM TRA - CÂU 1
+- Họ tên: Nguyễn Nam Khoa
+- MSSV: 2474802010194
+
+## Minh chứng Câu 1
+
+![Validation Error](screenshots/cau1_validation_error.png)
+
+![Validation Success](screenshots/cau1_validation_success.png)
